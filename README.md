@@ -1,1 +1,2 @@
-# FirstProject
+# This program Runs an array of 5 tests..
+# with highest & Lowest being removed... Averaging the final of the remaining 3 tests ran. 
